@@ -115,7 +115,7 @@ It’s foundational, yes — but only if you already know networking + basic sec
 ### **3. Focus on understanding the *why* and *how*, not just the what.**  
 Scenario questions demand reasoning, not memorization.
 
-### **4. [Learn the exam structure — timing, number of questions, weighting.**](https://www.isc2.org/certifications/cc/cc-certification-exam-outline#Domain%201:%20Security%20Principles)  
+### [**4. Learn the exam structure — timing, number of questions, weighting.**](https://www.isc2.org/certifications/cc/cc-certification-exam-outline#Domain%201:%20Security%20Principles)  
 You should know exactly what to expect.
 
 ### **5. In the exam, MANY questions will have two answers that feel right.**  

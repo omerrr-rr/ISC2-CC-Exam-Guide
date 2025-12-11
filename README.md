@@ -8,7 +8,7 @@ I finally sat for the ISC2 Certified in Cybersecurity exam and passed, and I wan
 
 ## 1. Starting With the Free ISC2 Self-Paced Course
 
-Once you register for the CC exam, you get access to ISC2’s free training, pre-assessment, post-assessment, and flashcards.
+Once you register for the CC exam, you get access to [ISC2’s free training, pre-assessment, post-assessment, and flashcards.](https://www.isc2.org/landing/CC-bundles?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CC-bundles&utm_term=ccproductlandingpage&utm_content=training)
 
 Use these. They’re free, structured, and honestly a decent starting point, **but don’t assume the exam is anywhere near the same difficulty level.**
 
@@ -26,7 +26,7 @@ Treat this as your **foundation, not your finish line.**
 
 Mike Chapple is practically the unofficial CC professor at this point.
 
-I personally read his **CC All-in-One book** thoroughly — inside out — and that alone filled so many gaps. His LinkedIn Learning course is also highly recommended by many people, even though I didn’t take it myself. It’s structured, clean, and aligned extremely well with the exam objectives.
+I personally read his [**CC All-in-One book**]() thoroughly — inside out — and that alone filled so many gaps. His [LinkedIn Learning course](https://www.linkedin.com/learning/isc-2-certified-in-cybersecurity-cc-cert-prep) is also highly recommended by many people, even though I didn’t take it myself. It’s structured, clean, and aligned extremely well with the exam objectives.
 
 👉 **If you want one strong paid resource, this is the one.**
 
@@ -34,7 +34,7 @@ I personally read his **CC All-in-One book** thoroughly — inside out — and t
 
 ## 3. (Optional) Thor Pedersen’s Course — My Personal Opinion
 
-I didn’t take Thor Pedersen’s course myself, but based on how widely it’s recommended and what I’ve seen, here’s my personal take:
+I didn’t take [Thor Pedersen’s course](https://www.udemy.com/course/certifiedincybersecurity/) myself, but based on how widely it’s recommended and what I’ve seen, here’s my personal take:
 
 - He goes deeper into explanations, which can help if you feel like concepts aren’t sticking yet.  
 - But some parts are broader than what CC requires, so I’d treat this as **optional**, only if you need reinforcement after the basics.
@@ -49,14 +49,16 @@ They don’t just give answers. They teach you **how to think like the exam**, h
 
 **Watch them in this exact order:**
 
-### 🔹 Prabh Nair’s ISC2 CC playlists  
+### 🔹 [Prabh Nair’s ISC2 CC playlists](https://www.youtube.com/playlist?list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-) 
 Amazing explanations, exam-style thinking.
 
-### 🔹 Cloud Guru Amit  
+### 🔹 [Computer Networks Decoded CC Video](https://www.youtube.com/watch?v=KOxT4hJX5h8)  
+Super helpful conceptual reinforcement.
+
+### 🔹 [Cloud Guru Amit CC Playlist](https://www.youtube.com/playlist?list=PLx5_UkGNs24d3e5JV1-fGLOI77w_zrdut)  
 Great question breakdowns and keyword spotting.
 
-### 🔹 Computer Networks Decoded CC Video  
-Super helpful conceptual reinforcement.
+
 
 These three honestly gave me insights that **no textbook did**. Highly, highly recommended.
 
@@ -75,7 +77,7 @@ Until the **last night** before my exam, I didn’t even know that social engine
 - Mitigations  
 - Real-world context  
 
-Use **Professor Messer’s Security+ attack videos** — they explain everything clearly.
+Use [**Professor Messer’s Security+ attack videos**]() — they explain everything clearly.
 
 💡 Knowing attack types deeply will make at least **10–20 questions** dramatically easier.
 
@@ -95,7 +97,7 @@ Mocks are for **pacing and question style**, not your main learning method.(agai
 
 ## 7. Final Cross-Check With the Important Topics Document
 
-Before the exam, I went through a consolidated document of essential CC topics.
+Before the exam, I went through this [**consolidated document**]() of essential CC topics.
 
 **Do this.**  
 It ensures you aren’t missing anything crucial and gives you a last-minute checklist to reinforce concepts.
@@ -133,7 +135,6 @@ Study smart, pick the right resources, and take your time.
 
 ---
 
-# 🎉 Best of luck — you absolutely got this.
-
-If someone like me can pass, so can you.  
+# 🎉 Best of luck — you absolutely got this :)
+  
 Let this exam be the start of your cybersecurity journey.

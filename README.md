@@ -26,7 +26,7 @@ Treat this as your **foundation, not your finish line.**
 
 Mike Chapple is practically the unofficial CC professor at this point.
 
-I personally read his [**CC All-in-One book**]() thoroughly — inside out — and that alone filled so many gaps. His [LinkedIn Learning course](https://www.linkedin.com/learning/isc-2-certified-in-cybersecurity-cc-cert-prep) is also highly recommended by many people, even though I didn’t take it myself. It’s structured, clean, and aligned extremely well with the exam objectives.
+I personally read his [**CC All-in-One book**](https://drive.google.com/file/d/1oflEMNpX4wPDiufrS0cO8OsVOTLoyrPj/view?usp=sharing) thoroughly — inside out — and that alone filled so many gaps. His [LinkedIn Learning course](https://www.linkedin.com/learning/isc-2-certified-in-cybersecurity-cc-cert-prep) is also highly recommended by many people, even though I didn’t take it myself. It’s structured, clean, and aligned extremely well with the exam objectives.
 
 👉 **If you want one strong paid resource, this is the one.**
 
@@ -77,7 +77,7 @@ Until the **last night** before my exam, I didn’t even know that social engine
 - Mitigations  
 - Real-world context  
 
-Use [**Professor Messer’s Security+ attack videos**]() — they explain everything clearly.
+Use [**Professor Messer’s Security+ attack videos**](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) — they explain everything clearly.
 
 💡 Knowing attack types deeply will make at least **10–20 questions** dramatically easier.
 
@@ -97,7 +97,7 @@ Mocks are for **pacing and question style**, not your main learning method.(agai
 
 ## 7. Final Cross-Check With the Important Topics Document
 
-Before the exam, I went through this [**consolidated document**]() of essential CC topics.
+Before the exam, I went through this [**consolidated document**](https://docs.google.com/document/d/1pLKPSQ0jpf3CyUpX_XcB8ex05ecjPUDT1a90NH7TkyQ/edit?usp=sharing) of essential CC topics.
 
 **Do this.**  
 It ensures you aren’t missing anything crucial and gives you a last-minute checklist to reinforce concepts.

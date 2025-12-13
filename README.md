@@ -1,6 +1,6 @@
 # ISC2-CC-Exam-Guide
 
-# PASSED ISC2 CC: Here’s Exactly How I Studied + What I Wish I Knew Earlier
+# Here’s Exactly How I Studied + What I Wish I Knew Earlier
 
 I finally sat for the ISC2 Certified in Cybersecurity exam and passed, and I wanted to share my experience for anyone preparing right now. For context: I’m not some seasoned IT professional, I’m just someone who wanted to break into cybersecurity with very basic prior knowledge. This exam is absolutely doable in **2–3 weeks**, but only if you study the right things and understand how this test workss.
 
